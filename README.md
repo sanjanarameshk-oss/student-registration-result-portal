@@ -5,7 +5,7 @@ This project allows students to enter their personal details, select a course, e
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:**file:///C:/Users/ADMIN/OneDrive/Pictures/Saved%20Pictures/sanjana/student%20registration%20result%20portal/index.html
+🔗 http://127.0.0.1:5500/index.html
 
 Click the link above to view the project live in your browser.
 
